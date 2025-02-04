@@ -25,7 +25,7 @@ npm install
 
 ### 3️⃣ Criar o Arquivo `.env`
 
-Crie um arquivo `.env` na raiz do projeto e defina as variáveis de ambiente:
+Renomeie o arquivo `.env_example` para `.env` e defina as variáveis de ambiente:
 
 ```sh
 PORT=3000
